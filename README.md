@@ -9,3 +9,6 @@ Nora Bolivar
 
 ## Executar el codi
 Per executar el projecte des d'un terminal, fer la comanda `python -m streamlit run main.py`
+
+## URL de la visualització
+https://norabolivarprojectevisualitzacio.streamlit.app/
